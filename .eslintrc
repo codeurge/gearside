@@ -1,0 +1,4 @@
+{
+  "extends": "eslint:recommended",
+  "plugins": ["babel-plugin-transform-decorators-legacy", "transform-runtime"]
+}
